@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/Eyes",
-		"1": "item/Metal",
+		"0": "item/eyes",
+		"1": "item/metal",
 		"2": "item/black",
-		"4": "item/Silver",
-		"5": "item/Wood",
-		"6": "item/Dark Hilt",
-		"7": "item/Ruby",
-		"particle": "item/Eyes"
+		"4": "item/silver",
+		"5": "item/wood",
+		"6": "item/dark_hilt",
+		"7": "item/ruby",
+		"particle": "item/eyes"
 	},
 	"elements": [
 		{

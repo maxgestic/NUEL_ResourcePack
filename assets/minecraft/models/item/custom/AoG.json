@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:diamond_axe",
 	"textures": {
-		"0": "item/Blade",
-		"1": "item/Metal",
-		"2": "item/Wood",
+		"0": "item/blade",
+		"1": "item/metal",
+		"2": "item/wood",
 		"3": "item/gold",
-		"particle": "item/Blade"
+		"particle": "item/blade"
 	},
 	"elements": [
 		{

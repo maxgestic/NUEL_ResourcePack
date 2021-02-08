@@ -5,6 +5,6 @@
  },
  
  "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "item/custom/TIG"}
+ {"predicate": {"custom_model_data":1}, "model": "item/custom/tig"}
  ]
 }
