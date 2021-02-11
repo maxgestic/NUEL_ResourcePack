@@ -9,6 +9,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Zip Folder
-      run: zip -r NUEL.zip . -x ".git/*" ".github/*"
+      run: zip -r release/NUEL.zip . -x ".git/*" ".github/*" "release/*"
     - name: Release to Github
-      run: echo "Release"
+      run: git add *
+      run: git commit -m "Created ZIP file"
+      run: git push
