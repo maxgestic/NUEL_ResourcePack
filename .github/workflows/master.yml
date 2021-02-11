@@ -12,6 +12,6 @@ jobs:
       run: zip -r release/NUEL.zip . -x ".git/*" ".github/*" "release/*"
     - name: Release to Github
       run: |
-      git add *
-      git commit -m "Created ZIP file"
-      git push
+        git add *
+        git commit -m "Created ZIP file"
+        git push
