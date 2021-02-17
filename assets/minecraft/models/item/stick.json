@@ -5,6 +5,7 @@
  },
  
  "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "item/custom/iron_key"}
+ {"predicate": {"custom_model_data":1}, "model": "item/custom/greenkey"},
+ {"predicate": {"custom_model_data":2}, "model": "item/custom/redkey"}
  ]
 }
